@@ -2,7 +2,9 @@
 #include <stdlib.h>
 
 
-
+int calculersomme("int a , int b "){
+return a + b ;
+}
 
 int main()
 {
