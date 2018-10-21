@@ -8,7 +8,9 @@ return a + b ;
 int calculerproduit(int a , int b ){
 return a * b ;
 }
-
+double  diviseraetb(int a , int b ) {
+return a / b ;
+}
 int main()
 {
     printf("Hello world!\n");
