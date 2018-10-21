@@ -2,8 +2,8 @@
 #include <stdlib.h>
 
 
-void  calculersomme("int a , int b "){
-printf("a + b ; ") ;
+int calculersomme("int a , int b "){
+return a + b ;
 }
 
 int main()
