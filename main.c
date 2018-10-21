@@ -2,8 +2,11 @@
 #include <stdlib.h>
 
 
-int calculersomme("int a , int b "){
+int calculersomme(int a , int b ){
 return a + b ;
+}
+int calculerproduit(int a , int b ){
+return a * b ;
 }
 
 int main()
